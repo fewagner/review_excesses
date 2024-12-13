@@ -1,0 +1,4 @@
+# live-time is 164260 seconds.
+# detector mass is 0.93 grams.
+
+# Bin edges are np.logspace(np.log10(10),np.log10(10e3),100)
